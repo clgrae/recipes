@@ -5,3 +5,4 @@
 * salt
 * chili flakes
 ## Instructions
+Put two avocados in a bowl.
